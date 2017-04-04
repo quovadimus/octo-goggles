@@ -1,0 +1,48 @@
+details:
+    page_title: Page Two
+layout:
+    - row_1_of_3:
+        - col_1_of_3:
+            - tile_template: pie_chart
+              tile_id: 2A
+              title: Checkin Status
+              classes:
+
+        - col_1_of_3:
+            - tile_template: pie_chart
+              tile_id: 2B
+              title: FileVault
+              classes:
+
+        - col_1_of_3:
+            - tile_template: text
+              tile_id: 2C
+              title: FileVault
+              classes:
+
+   
+    - row_1_of_3:
+        - col_1_of_3:
+            - tile_template: pie_chart
+              tile_id: 2D
+              title: Managed Systems Counts
+              classes:
+
+        - col_1_of_3:
+            - tile_template: pie_chart
+              tile_id: 2E
+              title: SIP Status
+              classes:
+
+        - col_1_of_3:
+            - tile_template: pie_chart
+              tile_id: 2F
+              title: Root Enabled
+              classes:
+              
+    - row_1_of_3:              
+        - col_1_of_1:
+            - tile_template: line_chart
+              tile_id: 2G
+              title: line test
+              classes:
