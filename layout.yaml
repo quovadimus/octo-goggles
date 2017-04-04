@@ -1,0 +1,52 @@
+details:
+    page_title: Page One
+layout:
+    - row_1_of_2:
+        - col_1_of_4:
+            - tile_template: pie_chart
+              tile_id: Q
+              title: page three
+              classes:
+
+        - col_1_of_4:
+            - tile_template: pie_chart
+              tile_id: R
+              title: macOS Sierra
+              classes:
+
+        - col_1_of_4:
+            - tile_template: pie_chart
+              tile_id: S
+              title: El Cap
+              classes:
+
+        - col_1_of_4:
+            - tile_template: pie_chart
+              tile_id: T
+              title: Yosemite
+              classes:
+
+    - row_1_of_2:
+        - col_1_of_4:
+            - tile_template: pie_chart
+              tile_id: U
+              title: Empty Tile
+              classes:
+
+        - col_1_of_4:
+            - tile_template: pie_chart
+              tile_id: V
+              title: macOS Sierra
+              classes:
+
+        - col_1_of_4:
+            - tile_template: pie_chart
+              tile_id: W
+              title: El Cap
+              classes:
+
+        - col_1_of_4:
+            - tile_template: pie_chart
+              tile_id: X
+              title: Yosemite
+              classes:
